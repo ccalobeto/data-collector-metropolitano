@@ -1,0 +1,10 @@
+.DS_Store
+datasets/raw
+datasets/alimentadores
+utils
+docs
+infrastructure/.terraform/
+infrastructure/.terraform.lock.hcl
+infrastructure/terraform.tfstate*
+src
+infrastructure
