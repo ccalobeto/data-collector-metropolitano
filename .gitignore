@@ -1,9 +1,5 @@
 .DS_Store
-src/utils
-docs
 infrastructure/.terraform/
 infrastructure/.terraform.lock.hcl
 infrastructure/terraform.tfstate*
-src
 datasets/raw
-settings.json
